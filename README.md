@@ -9,7 +9,7 @@ First of all , what is The docker in simple words, is tool that lets you to put 
 try to install Docker Desktop by going to  [official site](https://www.docker.com/get-started/) and click on get started at the top on right corner of the page.so, choose your operating system and follow the installation guide. 
 
 
-> ### @icon-info-circle  Desktop Version
+> ###   Desktop Version
 > Note : I recommended desktop version for reason, it give you both the command line interface and useful desktop application.
 
 one you downloaded this ,you need to verify this in your terminal.
@@ -118,7 +118,7 @@ write this command in terminal :
 
 you will get the hello world response like this :
 
-![](../Documents/GitHub/Docker-Container-and--Application-using-Docker-Compose-/Screenshot%202022-05-12%20152203.png)
+![web](Screenshot%202022-05-12%20152203.png)
 
 
 then, can shut down the server by **CTRL+C**
@@ -170,7 +170,7 @@ now , we need to build our docker image again by putting this command on the ter
  
  now image build and can you see executing for this in this order 
  
-![ ![the output for building image ]((file:///C:/Users/Shahad%20Alzughaibi/OneDrive%20-%20Deer%20ITC/Documents/GitHub/Docker-Container-and--Application-using-Docker-Compose-/Screenshot%202022-05-12%20143102.png](../Documents/GitHub/Docker-Container-and--Application-using-Docker-Compose-/Screenshot%202022-05-12%20143102.png)
+![ ![the output for building image ]([(file:///C:/Users/Shahad%20Alzughaibi/OneDrive%20-%20Deer%20ITC/Documents/GitHub/Docker-Container-and--Application-using-Docker-Compose-/Screenshot%202022-05-12%20143102.png](../Documents/GitHub/Docker-Container-and--Application-using-Docker-Compose-/Screenshot%202022-05-12%20143102.png](Screenshot%202022-05-12%20143102.png)
 
 
 
